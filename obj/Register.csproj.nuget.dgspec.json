@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dziew\\Desktop\\desktop\\projects\\Register\\Register\\Register\\Register.csproj": {}
+    "/Users/lukaszmichalak/Documents/Programowanie/C#/Register/Register.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dziew\\Desktop\\desktop\\projects\\Register\\Register\\Register\\Register.csproj": {
+    "/Users/lukaszmichalak/Documents/Programowanie/C#/Register/Register.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dziew\\Desktop\\desktop\\projects\\Register\\Register\\Register\\Register.csproj",
+        "projectUniqueName": "/Users/lukaszmichalak/Documents/Programowanie/C#/Register/Register.csproj",
         "projectName": "Register",
-        "projectPath": "C:\\Users\\dziew\\Desktop\\desktop\\projects\\Register\\Register\\Register\\Register.csproj",
-        "packagesPath": "C:\\Users\\dziew\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dziew\\Desktop\\desktop\\projects\\Register\\Register\\Register\\obj\\",
+        "projectPath": "/Users/lukaszmichalak/Documents/Programowanie/C#/Register/Register.csproj",
+        "packagesPath": "/Users/lukaszmichalak/.nuget/packages/",
+        "outputPath": "/Users/lukaszmichalak/Documents/Programowanie/C#/Register/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dziew\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/lukaszmichalak/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +43,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }
