@@ -23,12 +23,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/lukaszmichalak/Documents/Programowanie/C\#/Register/Views/Home/TestDupa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9UZXN0RHVwYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/lukaszmichalak/Documents/Programowanie/C\#/Register/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/lukaszmichalak/Documents/Programowanie/C\#/Register/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lukaszmichalak/Documents/Programowanie/C\#/Register/Views/Teacher/Schedule.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVhY2hlci9TY2hlZHVsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/lukaszmichalak/Documents/Programowanie/C\#/Register/Views/_ViewImports.cshtml]
@@ -39,6 +47,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/lukaszmichalak/Documents/Programowanie/C\#/Register/Views/Shared/Teacher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1RlYWNoZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-zz4qqkek86
+
 [/Users/lukaszmichalak/Documents/Programowanie/C\#/Register/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-y1vghnyb3q
+
+[/Users/lukaszmichalak/Documents/Programowanie/C\#/Register/Views/Shared/_Layout2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-m8hwgeogiw

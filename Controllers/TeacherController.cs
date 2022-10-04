@@ -4,11 +4,11 @@ using System.Diagnostics;
 
 namespace Register.Controllers
 {
-    public class HomeController : Controller
+    public class TeacherController : Controller
     {
         private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public TeacherController(ILogger<HomeController> logger)
         {
             _logger = logger;
         }
@@ -18,13 +18,8 @@ namespace Register.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
-        {
-            return View();
-        }
-
-        [HttpGet("TestDupa")]
-        public IActionResult TestDupa()
+        [HttpGet("Schedule")]
+        public IActionResult Schedule()
         {
             return View();
         }

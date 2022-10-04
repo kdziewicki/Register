@@ -50,3 +50,5 @@ C:/Users/dziew/Desktop/desktop/projects/Register/Register/Register/obj/Debug/net
 /Users/lukaszmichalak/Documents/Programowanie/C#/Register/obj/Debug/net6.0/Register.pdb
 /Users/lukaszmichalak/Documents/Programowanie/C#/Register/obj/Debug/net6.0/Register.genruntimeconfig.cache
 /Users/lukaszmichalak/Documents/Programowanie/C#/Register/obj/Debug/net6.0/ref/Register.dll
+/Users/lukaszmichalak/Documents/Programowanie/C#/Register/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout2.cshtml.rz.scp.css
+/Users/lukaszmichalak/Documents/Programowanie/C#/Register/obj/Debug/net6.0/scopedcss/Views/Shared/Teacher.cshtml.rz.scp.css
