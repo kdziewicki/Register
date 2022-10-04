@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{A3C8A5E6-70E2-4297-AE98-07BF7ED1187B}|Default" GitUserInfo="UsingGIT">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Shared/Teacher.cshtml">
+    <Files>
+      <File FileName="Views/Shared/Teacher.cshtml" Line="54" Column="67" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Register" expanded="True">
+            <Node name="Register" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="Teacher" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Register PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

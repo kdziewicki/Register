@@ -1,0 +1,7 @@
+/Users/lukaszmichalak/Documents/Programowanie/C#/Register/bin/Release/net6.0/publish/Register
+/Users/lukaszmichalak/Documents/Programowanie/C#/Register/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/lukaszmichalak/Documents/Programowanie/C#/Register/bin/Release/net6.0/publish/appsettings.json
+/Users/lukaszmichalak/Documents/Programowanie/C#/Register/bin/Release/net6.0/publish/Register.dll
+/Users/lukaszmichalak/Documents/Programowanie/C#/Register/bin/Release/net6.0/publish/Register.deps.json
+/Users/lukaszmichalak/Documents/Programowanie/C#/Register/bin/Release/net6.0/publish/Register.runtimeconfig.json
+/Users/lukaszmichalak/Documents/Programowanie/C#/Register/bin/Release/net6.0/publish/Register.pdb
